@@ -1,0 +1,162 @@
+.upper {
+
+  height: 100px;
+}
+
+.first{
+display: block;
+margin-left: auto;
+margin-right:auto;
+style:center;
+}
+.mother {
+  margin-left: auto;
+  margin-right: auto
+  border: 3px solid green;
+  style:center;
+}
+.one{
+  display:inline-block;
+  position: absolute;
+  left: 230.6px;
+  top: 20px;
+
+}
+.two{
+  display: inline;
+  position: absolute;
+  right:730.6px;
+  top: 20px;
+
+}
+.three{
+  display: inline;
+  position: absolute;
+  right:530.6px;
+  top: 20px;
+
+}
+.four{
+  display: inline;
+  position: absolute;
+  right:370.6px;
+  top: 20px;
+
+}
+.five{
+  display: inline;
+  position: absolute;
+  right:220.6px;
+  top: 20px;
+
+}
+.ph{
+  color: gold;
+}
+.para {
+  margin: 50px auto;
+  width: 60%;
+  padding: 10px;
+  }
+
+
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding:10px;
+}
+.row{
+  margin: auto;
+width: 60%;
+}
+
+.ash{
+  height: 1250px;
+}
+.ashl{
+  padding-top:40px;
+  background-color: #f0f0f0;
+  text-align: center;
+  margin-bottom:70px;
+}
+.madarchod{
+  margin: 50px;
+  padding: 5px;
+
+  display: inline-block;
+}
+
+.fatherchod{
+  border: none;
+  background: transparent;
+  border-bottom: 1px solid black;
+  outline: none;
+}
+
+.vaichod{
+  background: transparent;
+  border: 0;
+
+}
+.blank{
+  height: 600px;
+}
+.bal{
+  text-align: center;
+}
+.bal2{
+
+  padding: 15px;
+}
+.last{
+  height: auto;
+  background-color:#f0f0f0;
+
+}
+.tc{
+display: inline-block;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  left:310px;
+}
+.pr{
+display: inline-block;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  left:330px;
+}
+.fo{
+display: inline-block;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  left:940px;
+}
+
+.ins{
+   padding-top: 37px;
+  padding-bottom: 20px;
+  display: inline;
+  position: absolute;
+  right:220.6px;
+}
+  .twt{
+     padding-top: 37px;
+    padding-bottom: 20px;
+    display: inline;
+    position: absolute;
+    right:255.6px;
+  }
+  .fb{
+     padding-top: 37px;
+    padding-bottom: 20px;
+    display: inline;
+    position: absolute;
+    right:300.6px;
+  }
